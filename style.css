@@ -78,6 +78,7 @@ body {
 
 .meEncanta {
     width: 25px;
+    transform: rotate(-90deg);
 }
 
 .post-author span {
