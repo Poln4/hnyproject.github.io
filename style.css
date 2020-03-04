@@ -62,20 +62,22 @@ body {
     height: 50px;
     vertical-align: middle;
     border-radius: 25px;
+    transform: rotate(90deg);
 }
 .about-author img {
     margin: 0 auto;
     width: 100px;
     padding-bottom: 15px; 
     border-radius: 50%;
+    transform: rotate(90deg);
 }
 
 .post-container:nth-child(even) {
     background-color: #f2f2f2;
 }
 
-img {
-    transform: rotate(90deg);
+.meEncanta {
+    width: 25px;
 }
 
 .post-author span {
